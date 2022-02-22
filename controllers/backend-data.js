@@ -93,25 +93,17 @@ const data=(req,res)=>{
 
         {
             id:"10",
-            category:"technology",
-            name:"Ford plans surge in production of all-electric F-150 Lightning pickup truck",
-            date:"05 jan 2022",
-            img:"https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2022-01/220104-ford-f150-lightning-jm-1124-db5606.jpg",
-            about:"Buoyed by a growing demand, Ford Motor Co. said Tuesday it will double the production of its first electric version of the F-150 pickup truck, America's bestselling vehicle.The surge in production of the F-150 Lightning to 150,000 vehicles per year builds on the automaker's previous announcement in the fall that it would double the manufacturing from 40,000 to 80,000 vehicles at its new factory in Dearborn, Michigan.Kumar Galhotra, Ford's president of the Americas, said the company has racked up nearly 200,000 reservations from people clamoring for an electric incarnation of the popular model.The reality is clear: People are ready for an all-electric F-150 and Ford is pulling out all the stops to scale our operations and increase production capacity, he said in a statement."
-        },
-
-        {
-            id:"10",
             category:"featured",
             name:"Ford plans surge in production of all-electric F-150 Lightning pickup truck",
             date:"05 jan 2022",
             img:"https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2022-01/220104-ford-f150-lightning-jm-1124-db5606.jpg",
             about:"Buoyed by a growing demand, Ford Motor Co. said Tuesday it will double the production of its first electric version of the F-150 pickup truck, America's bestselling vehicle.The surge in production of the F-150 Lightning to 150,000 vehicles per year builds on the automaker's previous announcement in the fall that it would double the manufacturing from 40,000 to 80,000 vehicles at its new factory in Dearborn, Michigan.Kumar Galhotra, Ford's president of the Americas, said the company has racked up nearly 200,000 reservations from people clamoring for an electric incarnation of the popular model.The reality is clear: People are ready for an all-electric F-150 and Ford is pulling out all the stops to scale our operations and increase production capacity, he said in a statement."
         },
+       
 
         {
             id:"11",
-            category:"technology",
+            category:"top",
             name:"GM dethroned by Toyota after almost century-long run as top selling carmaker in the U.S.",
             date:"05 jan 2022",
             img:"https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2022-01/220104-Akio-Toyoda-ew-1148a-40f55c.jpg",
@@ -149,7 +141,7 @@ const data=(req,res)=>{
 
         {
             id:"15",
-            category:"covid",
+            category:"top",
             name:"Covid vaccines prevented nearly a quarter-million deaths last spring",
             date:"11 jan 2022",
             img:"https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2022-01/220111-covid-vaccine-mn-1450-a40fcc.jpg",
@@ -197,7 +189,7 @@ const data=(req,res)=>{
 
         {
             id:"20",
-            category:"sport",
+            category:"top",
             name:"Boxing: Mary Kom, Amit Panghal",
             date:"11 jan 2022",
             img:"https://images.indianexpress.com/2022/01/Mary-Kom-Panghal.jpg",
@@ -206,20 +198,11 @@ const data=(req,res)=>{
 
         {
             id:"21",
-            category:"sport",
+            category:"top",
             name:"Turkey defender Ahmet Calik dies in road accident",
             date:"11 jan 2022",
             img:"https://images.indianexpress.com/2022/01/Calik.jpg",
             about:"Former Turkey national soccer team defender Ahmet Calik died Tuesday in a traffic accident near Ankara, his current club said. The state-run Anadolu Agency said the 27-year-old Calik, who had been playing for Ittifak Holding Konyaspor, was killed after he lost control of his car in slippery conditions. The vehicle overturned and landed in a field. Calik was heading to Ankara from the city of Konya, where he is currently based, to deal with paperwork ahead of his wedding, Anadolu quoted his childhood friend, Onder Eryildirim, as saying."
-        },
-
-        {
-            id:"22",
-            category:"sport",
-            name:"Women's Asian Cup",
-            date:"11 jan 2022",
-            img:"https://images.indianexpress.com/2022/01/india-womens-football-dalima-chibber.jpg",
-            about:"Host nation India on Tuesday named its 23-member squad for the upcoming AFC Women's Asian Cup, including four youngsters from the team that finished runners-up in the U-19 SAFF Championships in Dhaka last month. While the All India Football Federation (AIFF) has not named a captain yet, the experienced Ashalata Devi is likely to lead the side in the continental tournament, which will be held in three venues across Maharasthra from January 20 to February 6. The players and support staff, who have already been camping in Kochi, Kerala since the team's return from Brazil, will fly out to Mumbai on Thursday, January 13, 2021. India have been drawn against IR Iran (January 20), Chinese Taipei (January 23) and China PR (January 26) in Group A of the competition that consists of 12 teams. With as many as 15 players under the age of 25 in the relatively young squad, Dennerby believes that it would “the youngsters and the experienced bunch can help each other out, both on and off the pitch.”  “We have a good bunch of young players, and some experienced heads too. The young ones are hungry to prove themselves, so that brings in a good level of energy and healthy competition for places,” said Dennerby before adding, “But it also works the other way round — as the experienced players can guide the young ones in different things both on and off the pitch.”"
         },
 
         {
@@ -230,6 +213,8 @@ const data=(req,res)=>{
             img:"https://images.indianexpress.com/2022/01/india-womens-football-dalima-chibber.jpg",
             about:"Host nation India on Tuesday named its 23-member squad for the upcoming AFC Women's Asian Cup, including four youngsters from the team that finished runners-up in the U-19 SAFF Championships in Dhaka last month. While the All India Football Federation (AIFF) has not named a captain yet, the experienced Ashalata Devi is likely to lead the side in the continental tournament, which will be held in three venues across Maharasthra from January 20 to February 6. The players and support staff, who have already been camping in Kochi, Kerala since the team's return from Brazil, will fly out to Mumbai on Thursday, January 13, 2021. India have been drawn against IR Iran (January 20), Chinese Taipei (January 23) and China PR (January 26) in Group A of the competition that consists of 12 teams. With as many as 15 players under the age of 25 in the relatively young squad, Dennerby believes that it would “the youngsters and the experienced bunch can help each other out, both on and off the pitch.”  “We have a good bunch of young players, and some experienced heads too. The young ones are hungry to prove themselves, so that brings in a good level of energy and healthy competition for places,” said Dennerby before adding, “But it also works the other way round — as the experienced players can guide the young ones in different things both on and off the pitch.”"
         },
+
+       
 
         {
             id:"23",
@@ -271,21 +256,14 @@ const data=(req,res)=>{
 
         {
             id:"27",
-            category:"world",
+            category:"featured",
             name:"China locks down 3rd city",
             date:"05 jan 2022",
             img:"https://images.indianexpress.com/2022/01/China-lockdown.jpg",
             about:"A third Chinese city has locked down its residents because of a COVid-19 outbreak, raising the number confined to their homes in China to about 20 million people. The lockdown of Anyang, home to 5.5 million people, was announced late Monday after two cases of the omicron variant were reported. Residents are not allowed to go out and stores have been ordered shut except those selling necessities. Another 13 million people have been locked down in Xi'an for nearly three weeks, and 1.1 million more in Yuzhou for more than a week. It wasn't clear how long the lockdown of Anyang would last, as it was announced as a measure to facilitate mass testing of residents, which is standard procedure in China's strategy of identifying and isolating infected people as quickly as possible. The lockdowns are the broadest since the shutting down of Wuhan and most of the rest of Hubei province in early 2020 at the start of the pandemic. Since then, China's approach has evolved into one of targeting smaller areas hit by outbreaks for lockdowns. The approach of the Winter Olympics, which open Feb. 4 in Beijing, and the emergence of omicron have brought back citywide lockdowns in a bid to snuff out outbreaks and prevent them from spreading to other parts of China. A Beijing Olympics official responsible for disease control, Huang Chun, said organizers are counting on the cooperation of athletes and officials to prevent an outbreak that could affect participation."
         },
 
-        {
-            id:"27",
-            category:"world",
-            name:"China locks down 3rd city",
-            date:"05 jan 2022",
-            img:"https://images.indianexpress.com/2022/01/China-lockdown.jpg",
-            about:"A third Chinese city has locked down its residents because of a COVid-19 outbreak, raising the number confined to their homes in China to about 20 million people. The lockdown of Anyang, home to 5.5 million people, was announced late Monday after two cases of the omicron variant were reported. Residents are not allowed to go out and stores have been ordered shut except those selling necessities. Another 13 million people have been locked down in Xi'an for nearly three weeks, and 1.1 million more in Yuzhou for more than a week. It wasn't clear how long the lockdown of Anyang would last, as it was announced as a measure to facilitate mass testing of residents, which is standard procedure in China's strategy of identifying and isolating infected people as quickly as possible. The lockdowns are the broadest since the shutting down of Wuhan and most of the rest of Hubei province in early 2020 at the start of the pandemic. Since then, China's approach has evolved into one of targeting smaller areas hit by outbreaks for lockdowns. The approach of the Winter Olympics, which open Feb. 4 in Beijing, and the emergence of omicron have brought back citywide lockdowns in a bid to snuff out outbreaks and prevent them from spreading to other parts of China. A Beijing Olympics official responsible for disease control, Huang Chun, said organizers are counting on the cooperation of athletes and officials to prevent an outbreak that could affect participation."
-        },
+       
 
 
         {
@@ -367,26 +345,7 @@ const data=(req,res)=>{
        
         
         {
-            id:"11",
-            category:"top",
-            name:"GM dethroned by Toyota after almost century-long run as top selling carmaker in the U.S.",
-            date:"05 jan 2022",
-            img:"https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2022-01/220104-Akio-Toyoda-ew-1148a-40f55c.jpg",
-            about:"Toyota has dethroned General Motors as America's top-selling automaker in 2021, marking the first time since 1931 that the Detroit automaker wasn't the best-selling car company in the U.S.It also marks the first time a non-domestic automaker has taken the top spot in America.Toyota was able to manage supply chain issues better, allowing it to take away GM's throne for the first time in 90 years. An ongoing shortage of semiconductor chips caused sporadic shutdowns of plants and led to record-low vehicle inventories in 2021. GM said Tuesday it sold 2.2 million vehicles in the U.S. in 2021, down by 12.9 percent compared to the year earlier. Toyota, by comparison, said it sold 2.3 million vehicles in the U.S. last year, up by 10.4 percent compared to 2020. The difference in sales between the two automakers was 114,034 vehicles."
-        },
-        
-
-        {
-            id:"15",
-            category:"top",
-            name:"Covid vaccines prevented nearly a quarter-million deaths last spring",
-            date:"11 jan 2022",
-            img:"https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2022-01/220111-covid-vaccine-mn-1450-a40fcc.jpg",
-            about:"The Covid vaccination campaign in the United States cut hospitalizations and deaths by nearly half in the first six months of 2021, new research suggests. The shots saved nearly 241,000 lives and prevented almost 1.2 million hospitalizations, according to a model published Tuesday in the journal JAMA Network Open. Full coverage of the Covid-19 pandemic But as 2021 progressed, the vaccines were met with a significant hurdle that blunted the shots' effectiveness: People stopped getting vaccinated. “By late spring and summer vaccine uptake started leveling out,” said Dr. Eric C. Schneider, a senior vice president for policy and research at The Commonwealth Fund who collaborated on the model. “We could have had even greater impact if we had more people vaccinated.” Even without reaching higher vaccination levels, the vaccines decreased the impact of the alpha variant, a moderately more contagious form of the virus that was first detected in the United Kingdom and began circulating worldwide by the end of 2020. It became the dominant variant in the U.S. in April 2021. According to researchers from Yale University, the University of Maryland, Canada's York University and The Commonwealth Fund, vaccinations averted more than 14 million cases of Covid from mid-December 2020, when the first vaccines were authorized, through the end of June 2021, by which point about 50 percent of U.S. adults were vaccinated. "
-        },
-
-        {
-            id:"22",
+            id:"41",
             category:"top",
             name:"Women's Asian Cup",
             date:"11 jan 2022",
@@ -394,14 +353,7 @@ const data=(req,res)=>{
             about:"Host nation India on Tuesday named its 23-member squad for the upcoming AFC Women's Asian Cup, including four youngsters from the team that finished runners-up in the U-19 SAFF Championships in Dhaka last month. While the All India Football Federation (AIFF) has not named a captain yet, the experienced Ashalata Devi is likely to lead the side in the continental tournament, which will be held in three venues across Maharasthra from January 20 to February 6. The players and support staff, who have already been camping in Kochi, Kerala since the team's return from Brazil, will fly out to Mumbai on Thursday, January 13, 2021. India have been drawn against IR Iran (January 20), Chinese Taipei (January 23) and China PR (January 26) in Group A of the competition that consists of 12 teams. With as many as 15 players under the age of 25 in the relatively young squad, Dennerby believes that it would “the youngsters and the experienced bunch can help each other out, both on and off the pitch.”  “We have a good bunch of young players, and some experienced heads too. The young ones are hungry to prove themselves, so that brings in a good level of energy and healthy competition for places,” said Dennerby before adding, “But it also works the other way round — as the experienced players can guide the young ones in different things both on and off the pitch.”"
         },
 
-        {
-            id:"21",
-            category:"top",
-            name:"Turkey defender Ahmet Calik dies in road accident",
-            date:"11 jan 2022",
-            img:"https://images.indianexpress.com/2022/01/Calik.jpg",
-            about:"Former Turkey national soccer team defender Ahmet Calik died Tuesday in a traffic accident near Ankara, his current club said. The state-run Anadolu Agency said the 27-year-old Calik, who had been playing for Ittifak Holding Konyaspor, was killed after he lost control of his car in slippery conditions. The vehicle overturned and landed in a field. Calik was heading to Ankara from the city of Konya, where he is currently based, to deal with paperwork ahead of his wedding, Anadolu quoted his childhood friend, Onder Eryildirim, as saying."
-        },
+       
 
 
         {
