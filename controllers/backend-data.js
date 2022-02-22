@@ -101,6 +101,15 @@ const data=(req,res)=>{
         },
 
         {
+            id:"10",
+            category:"featured",
+            name:"Ford plans surge in production of all-electric F-150 Lightning pickup truck",
+            date:"05 jan 2022",
+            img:"https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2022-01/220104-ford-f150-lightning-jm-1124-db5606.jpg",
+            about:"Buoyed by a growing demand, Ford Motor Co. said Tuesday it will double the production of its first electric version of the F-150 pickup truck, America's bestselling vehicle.The surge in production of the F-150 Lightning to 150,000 vehicles per year builds on the automaker's previous announcement in the fall that it would double the manufacturing from 40,000 to 80,000 vehicles at its new factory in Dearborn, Michigan.Kumar Galhotra, Ford's president of the Americas, said the company has racked up nearly 200,000 reservations from people clamoring for an electric incarnation of the popular model.The reality is clear: People are ready for an all-electric F-150 and Ford is pulling out all the stops to scale our operations and increase production capacity, he said in a statement."
+        },
+
+        {
             id:"11",
             category:"technology",
             name:"GM dethroned by Toyota after almost century-long run as top selling carmaker in the U.S.",
@@ -214,6 +223,15 @@ const data=(req,res)=>{
         },
 
         {
+            id:"22",
+            category:"featured",
+            name:"Women's Asian Cup",
+            date:"11 jan 2022",
+            img:"https://images.indianexpress.com/2022/01/india-womens-football-dalima-chibber.jpg",
+            about:"Host nation India on Tuesday named its 23-member squad for the upcoming AFC Women's Asian Cup, including four youngsters from the team that finished runners-up in the U-19 SAFF Championships in Dhaka last month. While the All India Football Federation (AIFF) has not named a captain yet, the experienced Ashalata Devi is likely to lead the side in the continental tournament, which will be held in three venues across Maharasthra from January 20 to February 6. The players and support staff, who have already been camping in Kochi, Kerala since the team's return from Brazil, will fly out to Mumbai on Thursday, January 13, 2021. India have been drawn against IR Iran (January 20), Chinese Taipei (January 23) and China PR (January 26) in Group A of the competition that consists of 12 teams. With as many as 15 players under the age of 25 in the relatively young squad, Dennerby believes that it would “the youngsters and the experienced bunch can help each other out, both on and off the pitch.”  “We have a good bunch of young players, and some experienced heads too. The young ones are hungry to prove themselves, so that brings in a good level of energy and healthy competition for places,” said Dennerby before adding, “But it also works the other way round — as the experienced players can guide the young ones in different things both on and off the pitch.”"
+        },
+
+        {
             id:"23",
             category:"sport",
             name:"India Open",
@@ -250,6 +268,15 @@ const data=(req,res)=>{
             about:"Walking into Dress Shoppe II is like walking into an emporium of color and cloth. The shelves are overflowing with hand-embroidered fabrics and saris, the racks are tightly packed with kurtas and salwar suits, and even the ceilings are covered in intricate tapestries. Below the main floor of the shop, there are two storage floors packed with piles of additional product. All of it needs to go by Jan 31. After nearly 50 years of business, the treasured East Village store is shutting down. Following nearly two years of pandemic-related struggles, combined with a landlord dispute, the loss of her husband and her own health problems, Saroj Goyal, the owner, decided that closing the store was the best choice. “Every moment is special here,” said Goyal, 72, as she sat sipping hot tea on a December afternoon. Every so often, she paused the conversation to help a customer who had wandered in, sharing suggestions and telling them to check out the shop's Instagram. Goyal and her husband, Purushottam Goyal, emigrated from Delhi, India, in the 1970s. It was his idea to open the business in 1977; the shop soon became a slice of South Asia in Manhattan. For decades, the couple would travel to India to find one-of-a-kind objects to sell. “My husband walked from village to village to collect all these things. He had a very unique taste,” Saroj Goyal said, picking up a hand-beaded textile."
         },
 
+
+        {
+            id:"27",
+            category:"world",
+            name:"China locks down 3rd city",
+            date:"05 jan 2022",
+            img:"https://images.indianexpress.com/2022/01/China-lockdown.jpg",
+            about:"A third Chinese city has locked down its residents because of a COVid-19 outbreak, raising the number confined to their homes in China to about 20 million people. The lockdown of Anyang, home to 5.5 million people, was announced late Monday after two cases of the omicron variant were reported. Residents are not allowed to go out and stores have been ordered shut except those selling necessities. Another 13 million people have been locked down in Xi'an for nearly three weeks, and 1.1 million more in Yuzhou for more than a week. It wasn't clear how long the lockdown of Anyang would last, as it was announced as a measure to facilitate mass testing of residents, which is standard procedure in China's strategy of identifying and isolating infected people as quickly as possible. The lockdowns are the broadest since the shutting down of Wuhan and most of the rest of Hubei province in early 2020 at the start of the pandemic. Since then, China's approach has evolved into one of targeting smaller areas hit by outbreaks for lockdowns. The approach of the Winter Olympics, which open Feb. 4 in Beijing, and the emergence of omicron have brought back citywide lockdowns in a bid to snuff out outbreaks and prevent them from spreading to other parts of China. A Beijing Olympics official responsible for disease control, Huang Chun, said organizers are counting on the cooperation of athletes and officials to prevent an outbreak that could affect participation."
+        },
 
         {
             id:"27",
@@ -337,41 +364,7 @@ const data=(req,res)=>{
             about:" In Dubai, Dubai Parks & Resorts offers four major theme parks rolled into one: Motiongate, dedicated to rides themed around Hollywood films; Bollywood Parks; Legoland Dubai; and Legoland Water Park. The city is also home to MG Worlds of Adventure with rides, roller coasters, and experiences themed around both Marvel storylines and characters for older kids, and the Cartoon Network for little ones. If you just want to splash about for the day, though, Dubai's Wild Wadi Water Park is your best bet in town. The best water park for older kids and teenagers wanting something more than simply slides is Wadi Adventure in Al Ain. Here, it's all about white water kayaking, surfing, and wakeboarding, though there are swimming pools here, too, for when you need a rest from all the activities. Abu Dhabi is home to two of the country's most famous branded theme parks both on Yas Island."
         },
 
-        {
-            id:"36",
-            category:"tourism",
-            name:"UAE's Desert Landscapes",
-            date:"05 jan 2022",
-            img:"https://www.planetware.com/photos-large/UAE/uae-desert-excursions-sand-dune-view.jpg",
-            about:"For those with an adventurous streak, make a beeline for the UAE's desert reaches that stretch across the country's southern interior. There are plenty of adventure activities on offer, from 4WD trips across the desert dunes to camel trekking, sandboarding, and dune buggy trips. Popular desert day trips from Dubai or Abu Dhabi usually include dinner at a desert camp after a 4WD journey into the dunes, and offer time at camp for other activities such as sandboarding or short camel rides. Other desert tours allow more scope for wildlife spotting and specialized desert operators also offer overnight camping amid the dunes. The desert interiors of the emirates of Dubai, Abu Dhabi, and Ras Al-Khaimah are also home to a number of luxury desert resorts, where stays are all about soaking up the dune scenery and heading out on desert activities."
-        },
-
-        {
-            id:"37",
-            category:"covid",
-            name:"Omicron on track to infect more than half of Europe, WHO says",
-            date:"22 dec 2021",
-            img:"https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2022-01/220111-covid-greece-mb-1446-ca4700.jpg",
-            about:"The omicron variant of Covid-19 is on track to infect more than half of Europeans, but it should not yet be seen as a flu-like endemic illness, the World Health Organization (WHO) said on Tuesday.Europe saw more than 7 million newly-reported cases in the first week of 2022, more than doubling over a two-week period, WHO's Europe director Hans Kluge told a news briefing.“At this rate, the Institute for Health Metrics and Evaluation forecasts that more than 50 percent of the population in the region will be infected with omicron in the next 6-8 weeks,” Kluge said, referring to a research centre at the University of Washington. On Monday, Spain's Prime Minister Pedro Sanchez said it may be time to change how it tracks Covid-19's evolution to instead use a method similar to flu, because its lethality has fallen. That would imply treating the virus as an endemic illness, rather than a pandemic, without recording every case and without testing all people presenting symptoms."
-        },
-
-        {
-            id:"38",
-            category:"world",
-            name:"Russian-led troops to start leaving Kazakhstan in two days: President",
-            date:"05 jan 2022",
-            img:"https://images.indianexpress.com/2022/01/Kazakhstan-Reuters-1.jpg",
-            about:"A Russian-led military bloc will begin withdrawing its troops from Kazakhstan in two days after fulfilling its main mission of stabilising the Central Asian country after serious unrest, Kazakh President Kassym-Jomart Tokayev said on Tuesday. Tokayev told parliament he was appointing a long-serving career public servant Alikhan Smailov as prime minister and spoke of initiatives to narrow the wealth gap, raise taxes on the mining sector, and eliminate irregularities in state procurement. Tokayev, 68, last week asked the Moscow-led Collective Security Treaty Organisation (CSTO) to send in troops at the peak of what he later said was an attempted coup d'etat whose unnamed instigators had plunged half of the oil-rich nation's territory into violence. A day earlier, he said that the CSTO mission, whose legitimacy and duration were queried by Washington prompting an angry response from Moscow, numbered 2,030 troops and 250 pieces of military hardware.”The main mission of the CSTO peacekeeping forces has been successfully completed,” Tokayev told parliament in a video conference call. “In two days' time, a phased withdrawal of the CSTO united peacekeeping contingent will begin. The withdrawal process of the contingent will take no more than 10 days.” Russian President Vladimir Putin on Monday said the deployment had been crucial, claiming victory in defending Kazakhstan from what he described as a foreign-backed terrorist uprising. Also read |Kazakhstan roiled by violent unrest: Here's everything you need to know Kazakh authorities say order has been largely restored in the nation of 19 million and that almost 10,000 people have been detained over the unrest with a hunt for others ongoing. The authorities say that initially peaceful protests against car fuel price increases were hijacked by groups aiming to overthrow the government. Some Central Asia analysts have suggested that intra-clan infighting among the country's wealthy elite may have played a major role in what was the deadliest violence in the ex-Soviet republic's 30 years of independence from Moscow."
-        },
-
-        {
-            id:"21",
-            category:"top",
-            name:"Turkey defender Ahmet Calik dies in road accident",
-            date:"11 jan 2022",
-            img:"https://images.indianexpress.com/2022/01/Calik.jpg",
-            about:"Former Turkey national soccer team defender Ahmet Calik died Tuesday in a traffic accident near Ankara, his current club said. The state-run Anadolu Agency said the 27-year-old Calik, who had been playing for Ittifak Holding Konyaspor, was killed after he lost control of his car in slippery conditions. The vehicle overturned and landed in a field. Calik was heading to Ankara from the city of Konya, where he is currently based, to deal with paperwork ahead of his wedding, Anadolu quoted his childhood friend, Onder Eryildirim, as saying."
-        },
+       
         
         {
             id:"11",
@@ -399,7 +392,46 @@ const data=(req,res)=>{
             date:"11 jan 2022",
             img:"https://images.indianexpress.com/2022/01/india-womens-football-dalima-chibber.jpg",
             about:"Host nation India on Tuesday named its 23-member squad for the upcoming AFC Women's Asian Cup, including four youngsters from the team that finished runners-up in the U-19 SAFF Championships in Dhaka last month. While the All India Football Federation (AIFF) has not named a captain yet, the experienced Ashalata Devi is likely to lead the side in the continental tournament, which will be held in three venues across Maharasthra from January 20 to February 6. The players and support staff, who have already been camping in Kochi, Kerala since the team's return from Brazil, will fly out to Mumbai on Thursday, January 13, 2021. India have been drawn against IR Iran (January 20), Chinese Taipei (January 23) and China PR (January 26) in Group A of the competition that consists of 12 teams. With as many as 15 players under the age of 25 in the relatively young squad, Dennerby believes that it would “the youngsters and the experienced bunch can help each other out, both on and off the pitch.”  “We have a good bunch of young players, and some experienced heads too. The young ones are hungry to prove themselves, so that brings in a good level of energy and healthy competition for places,” said Dennerby before adding, “But it also works the other way round — as the experienced players can guide the young ones in different things both on and off the pitch.”"
+        },
+
+        {
+            id:"21",
+            category:"top",
+            name:"Turkey defender Ahmet Calik dies in road accident",
+            date:"11 jan 2022",
+            img:"https://images.indianexpress.com/2022/01/Calik.jpg",
+            about:"Former Turkey national soccer team defender Ahmet Calik died Tuesday in a traffic accident near Ankara, his current club said. The state-run Anadolu Agency said the 27-year-old Calik, who had been playing for Ittifak Holding Konyaspor, was killed after he lost control of his car in slippery conditions. The vehicle overturned and landed in a field. Calik was heading to Ankara from the city of Konya, where he is currently based, to deal with paperwork ahead of his wedding, Anadolu quoted his childhood friend, Onder Eryildirim, as saying."
+        },
+
+
+        {
+            id:"36",
+            category:"tourism",
+            name:"UAE's Desert Landscapes",
+            date:"05 jan 2022",
+            img:"https://www.planetware.com/photos-large/UAE/uae-desert-excursions-sand-dune-view.jpg",
+            about:"For those with an adventurous streak, make a beeline for the UAE's desert reaches that stretch across the country's southern interior. There are plenty of adventure activities on offer, from 4WD trips across the desert dunes to camel trekking, sandboarding, and dune buggy trips. Popular desert day trips from Dubai or Abu Dhabi usually include dinner at a desert camp after a 4WD journey into the dunes, and offer time at camp for other activities such as sandboarding or short camel rides. Other desert tours allow more scope for wildlife spotting and specialized desert operators also offer overnight camping amid the dunes. The desert interiors of the emirates of Dubai, Abu Dhabi, and Ras Al-Khaimah are also home to a number of luxury desert resorts, where stays are all about soaking up the dune scenery and heading out on desert activities."
+        },
+
+        {
+            id:"37",
+            category:"covid",
+            name:"Omicron on track to infect more than half of Europe, WHO says",
+            date:"22 dec 2021",
+            img:"https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2022-01/220111-covid-greece-mb-1446-ca4700.jpg",
+            about:"The omicron variant of Covid-19 is on track to infect more than half of Europeans, but it should not yet be seen as a flu-like endemic illness, the World Health Organization (WHO) said on Tuesday.Europe saw more than 7 million newly-reported cases in the first week of 2022, more than doubling over a two-week period, WHO's Europe director Hans Kluge told a news briefing.“At this rate, the Institute for Health Metrics and Evaluation forecasts that more than 50 percent of the population in the region will be infected with omicron in the next 6-8 weeks,” Kluge said, referring to a research centre at the University of Washington. On Monday, Spain's Prime Minister Pedro Sanchez said it may be time to change how it tracks Covid-19's evolution to instead use a method similar to flu, because its lethality has fallen. That would imply treating the virus as an endemic illness, rather than a pandemic, without recording every case and without testing all people presenting symptoms."
+        },
+
+        {
+            id:"38",
+            category:"world",
+            name:"Russian-led troops to start leaving Kazakhstan in two days: President",
+            date:"05 jan 2022",
+            img:"https://images.indianexpress.com/2022/01/Kazakhstan-Reuters-1.jpg",
+            about:"A Russian-led military bloc will begin withdrawing its troops from Kazakhstan in two days after fulfilling its main mission of stabilising the Central Asian country after serious unrest, Kazakh President Kassym-Jomart Tokayev said on Tuesday. Tokayev told parliament he was appointing a long-serving career public servant Alikhan Smailov as prime minister and spoke of initiatives to narrow the wealth gap, raise taxes on the mining sector, and eliminate irregularities in state procurement. Tokayev, 68, last week asked the Moscow-led Collective Security Treaty Organisation (CSTO) to send in troops at the peak of what he later said was an attempted coup d'etat whose unnamed instigators had plunged half of the oil-rich nation's territory into violence. A day earlier, he said that the CSTO mission, whose legitimacy and duration were queried by Washington prompting an angry response from Moscow, numbered 2,030 troops and 250 pieces of military hardware.”The main mission of the CSTO peacekeeping forces has been successfully completed,” Tokayev told parliament in a video conference call. “In two days' time, a phased withdrawal of the CSTO united peacekeeping contingent will begin. The withdrawal process of the contingent will take no more than 10 days.” Russian President Vladimir Putin on Monday said the deployment had been crucial, claiming victory in defending Kazakhstan from what he described as a foreign-backed terrorist uprising. Also read |Kazakhstan roiled by violent unrest: Here's everything you need to know Kazakh authorities say order has been largely restored in the nation of 19 million and that almost 10,000 people have been detained over the unrest with a hunt for others ongoing. The authorities say that initially peaceful protests against car fuel price increases were hijacked by groups aiming to overthrow the government. Some Central Asia analysts have suggested that intra-clan infighting among the country's wealthy elite may have played a major role in what was the deadliest violence in the ex-Soviet republic's 30 years of independence from Moscow."
         }
+
+        
 
 
     ]
