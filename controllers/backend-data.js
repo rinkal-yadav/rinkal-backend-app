@@ -341,21 +341,7 @@ const data=(req,res)=>{
             img:"https://www.planetware.com/wpimages/2021/05/united-arab-emirates-top-attractions-family-fun-them-parks-wild-wadi-park.jpg",
             about:" In Dubai, Dubai Parks & Resorts offers four major theme parks rolled into one: Motiongate, dedicated to rides themed around Hollywood films; Bollywood Parks; Legoland Dubai; and Legoland Water Park. The city is also home to MG Worlds of Adventure with rides, roller coasters, and experiences themed around both Marvel storylines and characters for older kids, and the Cartoon Network for little ones. If you just want to splash about for the day, though, Dubai's Wild Wadi Water Park is your best bet in town. The best water park for older kids and teenagers wanting something more than simply slides is Wadi Adventure in Al Ain. Here, it's all about white water kayaking, surfing, and wakeboarding, though there are swimming pools here, too, for when you need a rest from all the activities. Abu Dhabi is home to two of the country's most famous branded theme parks both on Yas Island."
         },
-
-       
-        
-        {
-            id:"41",
-            category:"top",
-            name:"Women's Asian Cup",
-            date:"11 jan 2022",
-            img:"https://images.indianexpress.com/2022/01/india-womens-football-dalima-chibber.jpg",
-            about:"Host nation India on Tuesday named its 23-member squad for the upcoming AFC Women's Asian Cup, including four youngsters from the team that finished runners-up in the U-19 SAFF Championships in Dhaka last month. While the All India Football Federation (AIFF) has not named a captain yet, the experienced Ashalata Devi is likely to lead the side in the continental tournament, which will be held in three venues across Maharasthra from January 20 to February 6. The players and support staff, who have already been camping in Kochi, Kerala since the team's return from Brazil, will fly out to Mumbai on Thursday, January 13, 2021. India have been drawn against IR Iran (January 20), Chinese Taipei (January 23) and China PR (January 26) in Group A of the competition that consists of 12 teams. With as many as 15 players under the age of 25 in the relatively young squad, Dennerby believes that it would “the youngsters and the experienced bunch can help each other out, both on and off the pitch.”  “We have a good bunch of young players, and some experienced heads too. The young ones are hungry to prove themselves, so that brings in a good level of energy and healthy competition for places,” said Dennerby before adding, “But it also works the other way round — as the experienced players can guide the young ones in different things both on and off the pitch.”"
-        },
-
-       
-
-
+      
         {
             id:"36",
             category:"tourism",
