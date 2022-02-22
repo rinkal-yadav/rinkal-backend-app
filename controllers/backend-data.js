@@ -362,8 +362,44 @@ const data=(req,res)=>{
             date:"05 jan 2022",
             img:"https://images.indianexpress.com/2022/01/Kazakhstan-Reuters-1.jpg",
             about:"A Russian-led military bloc will begin withdrawing its troops from Kazakhstan in two days after fulfilling its main mission of stabilising the Central Asian country after serious unrest, Kazakh President Kassym-Jomart Tokayev said on Tuesday. Tokayev told parliament he was appointing a long-serving career public servant Alikhan Smailov as prime minister and spoke of initiatives to narrow the wealth gap, raise taxes on the mining sector, and eliminate irregularities in state procurement. Tokayev, 68, last week asked the Moscow-led Collective Security Treaty Organisation (CSTO) to send in troops at the peak of what he later said was an attempted coup d'etat whose unnamed instigators had plunged half of the oil-rich nation's territory into violence. A day earlier, he said that the CSTO mission, whose legitimacy and duration were queried by Washington prompting an angry response from Moscow, numbered 2,030 troops and 250 pieces of military hardware.”The main mission of the CSTO peacekeeping forces has been successfully completed,” Tokayev told parliament in a video conference call. “In two days' time, a phased withdrawal of the CSTO united peacekeeping contingent will begin. The withdrawal process of the contingent will take no more than 10 days.” Russian President Vladimir Putin on Monday said the deployment had been crucial, claiming victory in defending Kazakhstan from what he described as a foreign-backed terrorist uprising. Also read |Kazakhstan roiled by violent unrest: Here's everything you need to know Kazakh authorities say order has been largely restored in the nation of 19 million and that almost 10,000 people have been detained over the unrest with a hunt for others ongoing. The authorities say that initially peaceful protests against car fuel price increases were hijacked by groups aiming to overthrow the government. Some Central Asia analysts have suggested that intra-clan infighting among the country's wealthy elite may have played a major role in what was the deadliest violence in the ex-Soviet republic's 30 years of independence from Moscow."
-        }
+        },
+
+        {
+            id:"21",
+            category:"top",
+            name:"Turkey defender Ahmet Calik dies in road accident",
+            date:"11 jan 2022",
+            img:"https://images.indianexpress.com/2022/01/Calik.jpg",
+            about:"Former Turkey national soccer team defender Ahmet Calik died Tuesday in a traffic accident near Ankara, his current club said. The state-run Anadolu Agency said the 27-year-old Calik, who had been playing for Ittifak Holding Konyaspor, was killed after he lost control of his car in slippery conditions. The vehicle overturned and landed in a field. Calik was heading to Ankara from the city of Konya, where he is currently based, to deal with paperwork ahead of his wedding, Anadolu quoted his childhood friend, Onder Eryildirim, as saying."
+        },
         
+        {
+            id:"11",
+            category:"top",
+            name:"GM dethroned by Toyota after almost century-long run as top selling carmaker in the U.S.",
+            date:"05 jan 2022",
+            img:"https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2022-01/220104-Akio-Toyoda-ew-1148a-40f55c.jpg",
+            about:"Toyota has dethroned General Motors as America's top-selling automaker in 2021, marking the first time since 1931 that the Detroit automaker wasn't the best-selling car company in the U.S.It also marks the first time a non-domestic automaker has taken the top spot in America.Toyota was able to manage supply chain issues better, allowing it to take away GM's throne for the first time in 90 years. An ongoing shortage of semiconductor chips caused sporadic shutdowns of plants and led to record-low vehicle inventories in 2021. GM said Tuesday it sold 2.2 million vehicles in the U.S. in 2021, down by 12.9 percent compared to the year earlier. Toyota, by comparison, said it sold 2.3 million vehicles in the U.S. last year, up by 10.4 percent compared to 2020. The difference in sales between the two automakers was 114,034 vehicles."
+        },
+        
+
+        {
+            id:"15",
+            category:"top",
+            name:"Covid vaccines prevented nearly a quarter-million deaths last spring",
+            date:"11 jan 2022",
+            img:"https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2022-01/220111-covid-vaccine-mn-1450-a40fcc.jpg",
+            about:"The Covid vaccination campaign in the United States cut hospitalizations and deaths by nearly half in the first six months of 2021, new research suggests. The shots saved nearly 241,000 lives and prevented almost 1.2 million hospitalizations, according to a model published Tuesday in the journal JAMA Network Open. Full coverage of the Covid-19 pandemic But as 2021 progressed, the vaccines were met with a significant hurdle that blunted the shots' effectiveness: People stopped getting vaccinated. “By late spring and summer vaccine uptake started leveling out,” said Dr. Eric C. Schneider, a senior vice president for policy and research at The Commonwealth Fund who collaborated on the model. “We could have had even greater impact if we had more people vaccinated.” Even without reaching higher vaccination levels, the vaccines decreased the impact of the alpha variant, a moderately more contagious form of the virus that was first detected in the United Kingdom and began circulating worldwide by the end of 2020. It became the dominant variant in the U.S. in April 2021. According to researchers from Yale University, the University of Maryland, Canada's York University and The Commonwealth Fund, vaccinations averted more than 14 million cases of Covid from mid-December 2020, when the first vaccines were authorized, through the end of June 2021, by which point about 50 percent of U.S. adults were vaccinated. "
+        },
+
+        {
+            id:"22",
+            category:"top",
+            name:"Women's Asian Cup",
+            date:"11 jan 2022",
+            img:"https://images.indianexpress.com/2022/01/india-womens-football-dalima-chibber.jpg",
+            about:"Host nation India on Tuesday named its 23-member squad for the upcoming AFC Women's Asian Cup, including four youngsters from the team that finished runners-up in the U-19 SAFF Championships in Dhaka last month. While the All India Football Federation (AIFF) has not named a captain yet, the experienced Ashalata Devi is likely to lead the side in the continental tournament, which will be held in three venues across Maharasthra from January 20 to February 6. The players and support staff, who have already been camping in Kochi, Kerala since the team's return from Brazil, will fly out to Mumbai on Thursday, January 13, 2021. India have been drawn against IR Iran (January 20), Chinese Taipei (January 23) and China PR (January 26) in Group A of the competition that consists of 12 teams. With as many as 15 players under the age of 25 in the relatively young squad, Dennerby believes that it would “the youngsters and the experienced bunch can help each other out, both on and off the pitch.”  “We have a good bunch of young players, and some experienced heads too. The young ones are hungry to prove themselves, so that brings in a good level of energy and healthy competition for places,” said Dennerby before adding, “But it also works the other way round — as the experienced players can guide the young ones in different things both on and off the pitch.”"
+        }
 
 
     ]
